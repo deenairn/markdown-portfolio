@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. This is an ordered list.
+2. I think.
+
+* This is an unordered list
+* Maybe
